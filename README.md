@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## Social Networks
 
--  [LinkedIn](www.linkedin.com/in/brendan-db)
+-  [LinkedIn](https://www.linkedin.com/in/brendan-db/)
 
 ## Skills
 
