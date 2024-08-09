@@ -4,7 +4,8 @@ Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohriel94&show_icons=true&theme=tokyonight)
+![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohriel94&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohriel94&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/ohriel94/github-readme-stats)
 
 ## Social Networks
 
